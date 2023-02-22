@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:news_test/data/repository/posts_repository.dart';
-import 'package:news_test/cubit/posts/posts_state.dart';
+import 'package:posts_test/data/repository/posts_repository.dart';
+import 'package:posts_test/cubit/posts/posts_state.dart';
 
 class PostsCubit extends Cubit<PostsState> {
   PostsCubit(this.postsRepository) : super(PostsLoadingState());

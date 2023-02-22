@@ -1,4 +1,4 @@
-import 'package:news_test/data/models/posts/post_model.dart';
+import 'package:posts_test/data/models/posts/post_model.dart';
 
 abstract class PostsState {}
 

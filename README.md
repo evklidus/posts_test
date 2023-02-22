@@ -1,4 +1,4 @@
-# news_test
+# posts_test
 
 A new Flutter project.
 

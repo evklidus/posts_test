@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_test/data/models/posts/post_model.dart';
-import 'package:news_test/ui/posts/widgets/post_widget.dart';
+import 'package:posts_test/data/models/posts/post_model.dart';
+import 'package:posts_test/ui/posts/widgets/post_widget.dart';
 
 class HomeSuccessScreen extends StatelessWidget {
   const HomeSuccessScreen(this.posts, {super.key});

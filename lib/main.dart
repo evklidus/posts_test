@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_test/service_locator.dart';
-import 'package:news_test/ui/posts/screen/main/home_screen.dart';
+import 'package:posts_test/service_locator.dart';
+import 'package:posts_test/ui/posts/screen/main/home_screen.dart';
 
 void main() {
   setup();

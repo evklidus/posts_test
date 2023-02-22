@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_test/cubit/posts/posts_cubit.dart';
-import 'package:news_test/cubit/posts/posts_state.dart';
-import 'package:news_test/service_locator.dart';
-import 'package:news_test/ui/posts/screen/states/home_success_screen.dart';
+import 'package:posts_test/cubit/posts/posts_cubit.dart';
+import 'package:posts_test/cubit/posts/posts_state.dart';
+import 'package:posts_test/service_locator.dart';
+import 'package:posts_test/ui/posts/screen/states/home_success_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

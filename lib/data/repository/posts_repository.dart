@@ -1,5 +1,5 @@
-import 'package:news_test/data/models/posts/post_model.dart';
-import 'package:news_test/data/data_provider/posts/json_placehloder_api_provider.dart';
+import 'package:posts_test/data/models/posts/post_model.dart';
+import 'package:posts_test/data/data_provider/posts/json_placehloder_api_provider.dart';
 
 class PostsRepository {
   final JsonPlaceholderApiProvider jsonPlaceholderApiProvider;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_test/data/models/posts/post_model.dart';
+import 'package:posts_test/data/models/posts/post_model.dart';
 
 class PostWidget extends StatelessWidget {
   const PostWidget(this.post, {super.key});
